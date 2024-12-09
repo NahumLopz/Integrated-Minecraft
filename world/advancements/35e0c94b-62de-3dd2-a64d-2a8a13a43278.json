@@ -1,0 +1,914 @@
+{
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-11-29 17:58:11 -0600"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2024-11-29 17:58:11 -0600"
+    },
+    "done": true
+  },
+  "minecraft:unlock_deep_pockets_book": {
+    "criteria": {
+      "exists": "2024-11-29 17:58:11 -0600"
+    },
+    "done": true
+  },
+  "friendsandfoes:misc/yellow_dye_from_buttercup": {
+    "criteria": {
+      "has_the_recipe": "2024-11-29 17:58:11 -0600"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-11-29 17:58:11 -0600"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-11-29 17:58:11 -0600"
+    },
+    "done": true
+  },
+  "integrated_villages:integrated_villages_root": {
+    "criteria": {
+      "always": "2024-11-29 17:58:11 -0600"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2024-11-29 17:58:14 -0600"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2024-11-29 17:58:14 -0600"
+    },
+    "done": true
+  },
+  "regions_unexplored:regions_explored": {
+    "criteria": {
+      "shrubland": "2024-12-01 20:03:30 -0600",
+      "pine_taiga": "2024-12-04 18:28:23 -0600",
+      "grassy_beach": "2024-11-29 17:58:14 -0600",
+      "scorching_caves": "2024-12-07 01:07:01 -0600",
+      "rocky_meadow": "2024-11-29 18:00:15 -0600",
+      "magnolia_highlands": "2024-12-01 20:51:27 -0600",
+      "deciduous_forest": "2024-11-29 17:59:54 -0600",
+      "towering_cliffs": "2024-11-29 18:42:46 -0600",
+      "chalk_cliffs": "2024-12-07 01:11:40 -0600",
+      "bamboo_forest": "2024-11-29 19:12:01 -0600",
+      "temperate_grove": "2024-12-01 20:30:13 -0600",
+      "grassland": "2024-11-29 18:18:02 -0600",
+      "redwoods": "2024-11-29 19:12:11 -0600",
+      "lupine_plains": "2024-12-04 20:11:37 -0600"
+    },
+    "done": false
+  },
+  "regions_unexplored:pioneer": {
+    "criteria": {
+      "shrubland": "2024-12-01 20:03:30 -0600",
+      "pine_taiga": "2024-12-04 18:28:23 -0600",
+      "grassy_beach": "2024-11-29 17:58:14 -0600",
+      "rocky_meadow": "2024-11-29 18:00:15 -0600",
+      "magnolia_highlands": "2024-12-01 20:51:27 -0600",
+      "deciduous_forest": "2024-11-29 17:59:54 -0600",
+      "towering_cliffs": "2024-11-29 18:42:46 -0600",
+      "chalk_cliffs": "2024-12-07 01:11:40 -0600",
+      "bamboo_forest": "2024-11-29 19:12:01 -0600",
+      "temperate_grove": "2024-12-01 20:30:13 -0600",
+      "grassland": "2024-11-29 18:18:02 -0600",
+      "redwoods": "2024-11-29 19:12:11 -0600",
+      "lupine_plains": "2024-12-04 20:11:37 -0600"
+    },
+    "done": false
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2024-11-29 17:58:14 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-11-29 17:59:07 -0600"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-11-29 17:59:07 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/stick": {
+    "criteria": {
+      "has_item": "2024-11-29 18:02:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-11-29 18:03:23 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-11-29 18:06:49 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/coal": {
+    "criteria": {
+      "has_item": "2024-11-29 18:08:13 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2024-11-29 18:11:05 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/magnetic_compass": {
+    "criteria": {
+      "item": "2024-11-29 18:12:08 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-11-29 18:12:19 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/emerald": {
+    "criteria": {
+      "has_item": "2024-11-29 18:12:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-11-30 21:38:23 -0600",
+      "cooked_beef": "2024-11-30 21:32:18 -0600",
+      "beef": "2024-12-04 17:55:55 -0600",
+      "porkchop": "2024-11-30 21:30:50 -0600",
+      "mutton": "2024-12-04 18:00:33 -0600",
+      "salmon": "2024-12-04 18:08:47 -0600",
+      "cooked_chicken": "2024-11-30 22:18:49 -0600",
+      "mushroom_stew": "2024-12-04 19:03:55 -0600",
+      "rabbit_stew": "2024-12-01 20:20:42 -0600",
+      "cooked_mutton": "2024-11-29 19:20:16 -0600",
+      "tropical_fish": "2024-12-04 17:52:08 -0600",
+      "beetroot_soup": "2024-12-01 23:47:07 -0600",
+      "apple": "2024-12-01 21:03:51 -0600",
+      "spider_eye": "2024-12-04 18:41:51 -0600",
+      "potato": "2024-11-30 23:13:24 -0600",
+      "cooked_cod": "2024-12-04 18:25:01 -0600",
+      "bread": "2024-11-29 18:18:02 -0600",
+      "rotten_flesh": "2024-12-04 17:51:01 -0600",
+      "beetroot": "2024-12-04 19:01:08 -0600",
+      "cod": "2024-12-04 18:04:12 -0600",
+      "cooked_salmon": "2024-12-04 18:19:42 -0600",
+      "carrot": "2024-11-29 18:34:51 -0600"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-11-29 18:18:02 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2024-12-04 18:04:40 -0600",
+      "minecraft:birch_forest": "2024-12-04 18:59:19 -0600",
+      "minecraft:beach": "2024-12-04 17:58:57 -0600",
+      "minecraft:lukewarm_ocean": "2024-11-29 18:38:33 -0600",
+      "minecraft:river": "2024-11-29 18:18:15 -0600",
+      "minecraft:forest": "2024-11-30 23:51:41 -0600",
+      "minecraft:jungle": "2024-12-03 22:30:29 -0600",
+      "minecraft:ocean": "2024-12-04 18:02:42 -0600",
+      "minecraft:windswept_savanna": "2024-11-29 18:36:39 -0600",
+      "minecraft:deep_lukewarm_ocean": "2024-12-04 19:52:02 -0600",
+      "minecraft:old_growth_birch_forest": "2024-12-04 17:58:14 -0600",
+      "minecraft:savanna": "2024-11-29 18:34:18 -0600",
+      "minecraft:plains": "2024-11-29 18:39:22 -0600"
+    },
+    "done": false
+  },
+  "regions_unexplored:got_wood": {
+    "criteria": {
+      "magnolia_log": "2024-12-01 20:51:41 -0600",
+      "pine_log": "2024-12-04 18:36:55 -0600",
+      "small_oak_log": "2024-11-29 18:19:42 -0600"
+    },
+    "done": false
+  },
+  "spelunkery:recipes/raw_iron": {
+    "criteria": {
+      "has_item": "2024-11-29 18:24:36 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-11-29 18:28:38 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-11-29 18:29:40 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2024-11-29 19:18:08 -0600",
+      "minecraft:skeleton": "2024-11-30 22:22:19 -0600",
+      "minecraft:ravager": "2024-11-30 21:58:15 -0600",
+      "minecraft:vindicator": "2024-11-30 21:35:25 -0600",
+      "minecraft:spider": "2024-11-29 18:56:02 -0600",
+      "minecraft:slime": "2024-12-01 22:09:31 -0600",
+      "minecraft:phantom": "2024-12-04 17:48:51 -0600",
+      "minecraft:witch": "2024-11-30 21:38:35 -0600",
+      "minecraft:zombie": "2024-11-29 18:29:40 -0600",
+      "minecraft:drowned": "2024-12-04 18:22:32 -0600",
+      "minecraft:zombie_villager": "2024-11-30 22:21:22 -0600"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-11-29 18:29:40 -0600"
+    },
+    "done": true
+  },
+  "idas:hunters_cabin": {
+    "criteria": {
+      "in_hunters_cabin": "2024-11-29 18:33:31 -0600"
+    },
+    "done": true
+  },
+  "integrated_villages:mediterranean_village": {
+    "criteria": {
+      "in_mediterranean_village": "2024-11-29 18:34:41 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/charcoal": {
+    "criteria": {
+      "has_item": "2024-11-29 18:37:17 -0600"
+    },
+    "done": true
+  },
+  "oreganized:story/lead_to_dust": {
+    "criteria": {
+      "in_lead_cloud": "2024-11-29 18:37:57 -0600"
+    },
+    "done": true
+  },
+  "oreganized:story/like_the_romans": {
+    "criteria": {
+      "has_brain_damage": "2024-11-29 18:37:58 -0600"
+    },
+    "done": true
+  },
+  "ars_additions:find_ruined_portal": {
+    "criteria": {
+      "find_ruined_portal": "2024-11-29 18:41:42 -0600"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2024-11-29 18:41:44 -0600"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2024-11-30 22:23:25 -0600",
+      "opened_chest": "2024-11-29 18:41:44 -0600",
+      "opened_cart": "2024-11-29 18:58:57 -0600"
+    },
+    "done": false
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-11-29 18:46:37 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-11-29 18:49:16 -0600"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/all_mineshaft": {
+    "criteria": {
+      "locate_acacia_mineshaft": "2024-11-29 18:58:46 -0600",
+      "locate_oak_mineshaft": "2024-11-29 18:51:00 -0600"
+    },
+    "done": false
+  },
+  "hopo:minecraft/adventure/locate_mineshaft": {
+    "criteria": {
+      "locate_oak_mineshaft": "2024-11-29 18:51:00 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-11-29 18:51:55 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/rough_gem": {
+    "criteria": {
+      "item": "2024-11-29 18:56:25 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_lazurite": {
+    "criteria": {
+      "has_item": "2024-11-29 18:56:25 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/coal_lump": {
+    "criteria": {
+      "item": "2024-11-29 18:57:54 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/coal_lump": {
+    "criteria": {
+      "has_item": "2024-11-29 18:57:54 -0600"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-11-29 18:58:57 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_cinnabar": {
+    "criteria": {
+      "has_item": "2024-11-29 18:59:35 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_cinnabar_shard": {
+    "criteria": {
+      "has_item": "2024-11-29 18:59:49 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2024-11-29 19:00:00 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_diamond": {
+    "criteria": {
+      "has_item": "2024-11-29 19:03:46 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/rough_diamond": {
+    "criteria": {
+      "item": "2024-11-29 19:03:46 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/glowstick": {
+    "criteria": {
+      "has_item": "2024-11-29 19:07:06 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/glowstick": {
+    "criteria": {
+      "item": "2024-11-29 19:07:06 -0600"
+    },
+    "done": true
+  },
+  "idas:fishermans_lodge": {
+    "criteria": {
+      "in_fishermans_lodge": "2024-11-29 19:12:25 -0600"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2024-11-29 19:12:45 -0600"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2024-11-29 19:12:45 -0600"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2024-11-29 19:13:10 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-11-29 19:19:28 -0600"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/crude_cladding": {
+    "criteria": {
+      "get_disc": "2024-11-29 19:19:36 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/gunpowder": {
+    "criteria": {
+      "has_item": "2024-11-29 19:20:02 -0600"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-11-30 21:32:00 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/harvest_straw": {
+    "criteria": {
+      "harvest_straw": "2024-11-30 21:40:57 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2024-11-30 21:44:35 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "cabbage": "2024-11-30 23:10:46 -0600",
+      "onion": "2024-12-01 19:56:34 -0600",
+      "tomato": "2024-12-01 00:08:00 -0600",
+      "beetroot": "2024-11-30 21:44:35 -0600",
+      "sugar_cane": "2024-12-02 00:26:11 -0600",
+      "potato": "2024-12-01 20:21:05 -0600",
+      "red_mushroom": "2024-12-04 18:01:55 -0600",
+      "wheat": "2024-12-01 00:07:35 -0600",
+      "carrot": "2024-12-01 20:15:32 -0600"
+    },
+    "done": false
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2024-11-30 21:47:10 -0600"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/jar_pixie": {
+    "criteria": {
+      "jar": "2024-11-30 21:48:16 -0600"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/soap": {
+    "criteria": {
+      "stew": "2024-11-30 21:49:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-11-30 21:59:15 -0600"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/cladding_template": {
+    "criteria": {
+      "get_disc": "2024-11-30 22:04:29 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/every_fungus": {
+    "criteria": {
+      "white_inkcap_mushroom": "2024-12-07 01:02:47 -0600",
+      "mushgloom": "2024-12-07 01:09:07 -0600",
+      "conk_fungus": "2024-12-04 18:00:33 -0600",
+      "brown_mushroom": "2024-12-01 22:49:23 -0600",
+      "warped_fungus": "2024-12-04 19:12:27 -0600",
+      "red_mushroom": "2024-12-04 18:01:56 -0600",
+      "inkcap_mushroom": "2024-11-30 22:13:12 -0600"
+    },
+    "done": false
+  },
+  "spelunkery:recipes/inkcap_mushroom": {
+    "criteria": {
+      "has_item": "2024-11-30 22:13:12 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_iron_nugget": {
+    "criteria": {
+      "has_item": "2024-11-30 22:15:54 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/raw_nuggets": {
+    "criteria": {
+      "item": "2024-11-30 22:16:29 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_copper": {
+    "criteria": {
+      "has_item": "2024-11-30 22:16:29 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_copper_nugget": {
+    "criteria": {
+      "has_item": "2024-11-30 22:16:40 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_gold_nugget": {
+    "criteria": {
+      "has_item": "2024-11-30 22:17:28 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_gold": {
+    "criteria": {
+      "has_item": "2024-11-30 22:19:13 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-11-30 22:19:22 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_emerald": {
+    "criteria": {
+      "has_item": "2024-11-30 22:22:00 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/raw_magnetite_nugget": {
+    "criteria": {
+      "has_item": "2024-11-30 22:22:45 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/copper_ingot": {
+    "criteria": {
+      "has_item": "2024-11-30 22:23:25 -0600"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2024-11-30 22:23:25 -0600"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2024-11-30 22:23:25 -0600"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2024-11-30 22:24:08 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/obsidian": {
+    "criteria": {
+      "has_item": "2024-11-30 22:28:03 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-11-30 22:28:03 -0600"
+    },
+    "done": true
+  },
+  "biomemakeover:biomemakeover/create_peat_farmland": {
+    "criteria": {
+      "create_peat": "2024-11-30 22:28:41 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/iron_ores": {
+    "criteria": {
+      "has_item": "2024-11-30 22:30:00 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/every_ore": {
+    "criteria": {
+      "lapis_ore": "2024-12-02 14:35:20 -0600",
+      "emerald_ore": "2024-12-01 22:37:14 -0600",
+      "deepslate_iron_ore": "2024-11-30 22:30:00 -0600"
+    },
+    "done": false
+  },
+  "ars_nouveau:root": {
+    "criteria": {
+      "ars_nouveau:worn_notebook": "2024-11-30 23:31:57 -0600"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-11-30 23:51:22 -0600"
+    },
+    "done": true
+  },
+  "integrated_villages:mossy_mounds": {
+    "criteria": {
+      "in_mossy_mounds": "2024-12-01 20:03:16 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_feast": {
+    "criteria": {
+      "honey_glazed_ham": "2024-12-01 20:04:39 -0600"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2024-12-01 20:20:20 -0600"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2024-12-01 20:20:42 -0600"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-01 20:36:51 -0600"
+    },
+    "done": false
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "beef_stew": "2024-12-01 20:45:08 -0600"
+    },
+    "done": false
+  },
+  "spelunkery:recipes/amethyst": {
+    "criteria": {
+      "has_item": "2024-12-01 20:55:56 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/emerald_ores": {
+    "criteria": {
+      "has_item": "2024-12-01 22:37:14 -0600"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-01 22:57:12 -0600"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2024-12-01 23:03:27 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/diamond": {
+    "criteria": {
+      "has_item": "2024-12-01 23:09:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-01 23:09:42 -0600"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-01 23:09:47 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-01 23:11:03 -0600"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-12-01 23:11:03 -0600"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2024-12-01 23:25:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-01 23:53:33 -0600"
+    },
+    "done": false
+  },
+  "ars_nouveau:novice_spell_book": {
+    "criteria": {
+      "has_novice_spell_book": "2024-12-02 00:16:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-02 00:16:34 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/lapis_ores": {
+    "criteria": {
+      "has_item": "2024-12-02 14:35:20 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/nephrite_chunk": {
+    "criteria": {
+      "has_item": "2024-12-03 22:04:56 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/nephrite_chunk": {
+    "criteria": {
+      "item": "2024-12-03 22:04:56 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_diamond_shard": {
+    "criteria": {
+      "has_item": "2024-12-03 22:08:15 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/diamond_grindstone": {
+    "criteria": {
+      "item": "2024-12-03 22:57:14 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:spelunkery/conk_fungus": {
+    "criteria": {
+      "item": "2024-12-04 18:00:33 -0600"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-04 18:04:49 -0600"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2024-12-04 18:07:39 -0600"
+    },
+    "done": true
+  },
+  "betterarcheology:fossil_found": {
+    "criteria": {
+      "betterarcheology:fossil_found": "2024-12-04 18:14:24 -0600"
+    },
+    "done": true
+  },
+  "betterarcheology:all_fossils_found": {
+    "criteria": {
+      "betterarcheology:villager_fossil_head": "2024-12-04 18:14:24 -0600"
+    },
+    "done": false
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-04 18:30:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-04 18:33:31 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/flint": {
+    "criteria": {
+      "has_item": "2024-12-04 18:58:06 -0600"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2024-12-04 19:52:42 -0600"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2024-12-04 19:57:47 -0600"
+    },
+    "done": true
+  },
+  "ars_elemental:caster_bag": {
+    "criteria": {
+      "has_caster_bag": "2024-12-07 00:29:48 -0600"
+    },
+    "done": true
+  },
+  "regions_unexplored:spelunker": {
+    "criteria": {
+      "scorching_caves": "2024-12-07 01:07:01 -0600"
+    },
+    "done": false
+  },
+  "spelunkery:recipes/white_inkcap_mushroom": {
+    "criteria": {
+      "has_item": "2024-12-07 01:02:47 -0600"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2024-12-07 01:26:36 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-07 02:11:52 -0600"
+    },
+    "done": true
+  },
+  "oreganized:story/profound_brain_damage": {
+    "criteria": {
+      "stunned": "2024-12-07 00:59:55 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/mushgloom": {
+    "criteria": {
+      "has_item": "2024-12-07 01:09:07 -0600"
+    },
+    "done": true
+  },
+  "spelunkery:recipes/rough_diamond_block": {
+    "criteria": {
+      "has_item": "2024-12-07 01:08:10 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-07 02:11:52 -0600"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

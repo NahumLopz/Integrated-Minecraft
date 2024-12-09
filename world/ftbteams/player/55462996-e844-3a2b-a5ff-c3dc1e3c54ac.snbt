@@ -1,0 +1,17 @@
+{
+	id: "55462996-e844-3a2b-a5ff-c3dc1e3c54ac"
+	type: "player"
+	player_name: "Nahum"
+	ranks: {
+		55462996-e844-3a2b-a5ff-c3dc1e3c54ac: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Nahum"
+		"ftbteams:description": ""
+		"ftbteams:color": "#596FFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

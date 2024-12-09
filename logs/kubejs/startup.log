@@ -1,0 +1,12 @@
+[00:14:57] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[00:14:57] [INIT] Loaded plugins:
+[00:14:57] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[00:14:57] [INIT] - net.mehvahdjukaar.sawmill.integration.KubeJsPlugin
+[00:14:57] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[00:14:57] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[00:14:57] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[00:14:57] [INIT] - com.bobvarioa.kubejsarsnouveau.KubeJSArsNouveauPlugin
+[00:14:57] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[00:14:57] [INIT] - qinomed.kubejsdelight.KubeJSDelightPlugin
+[00:14:59] [INFO] Loaded script startup_scripts:item_modifications.js in 0.089 s
+[00:14:59] [INFO] Loaded 1/1 KubeJS startup scripts in 1.362 s with 0 errors and 0 warnings
